@@ -1,9 +1,3 @@
-### Rafael Chaves,
-Full Stack developer!
-
-
-
-
 ## Main Skills
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
